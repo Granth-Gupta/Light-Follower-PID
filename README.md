@@ -12,6 +12,7 @@ Light follower can smoothly traverse curved path by using PID control.
 - L293D ic
 - IR sensor
 
+## Bot Traversing curved path
 
 https://github.com/Granth-Gupta/Light-Follower-PID/assets/102872537/5da91252-d5a4-4dbe-a759-3f7b1e505075
 
